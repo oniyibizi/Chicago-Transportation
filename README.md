@@ -1,4 +1,4 @@
-# NFL WR Analysis
+# Chicago Method of Public Transportation Analysis
 Final Project for Data Engineering Course from Masters of Science in Analytics Program 
 
 
@@ -17,3 +17,15 @@ https://data.cityofchicago.org/
 ## Data Model:
 
 ![image](https://github.com/oniyibizi/Chicago-Transportation/blob/main/images/DataModel.png)
+
+
+## Dashboards & Viszulations from Tableau:
+
+![image](https://github.com/oniyibizi/Chicago-Transportation/blob/main/images/DivvyDashboard.png)
+
+![image](https://github.com/oniyibizi/Chicago-Transportation/blob/main/images/EScooterDashboard.png)
+
+![image](https://github.com/oniyibizi/Chicago-Transportation/blob/main/images/Comparision.png)
+
+
+## Methodology & Tools Used:
