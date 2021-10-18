@@ -37,7 +37,7 @@ https://data.cityofchicago.org/
 
 ## Data Cleaning & Profiling:
 
-●	Due to the pilot program only running at certain times we looked at data from June 15,2019 to October 15,2019 and June 15, 2018 to October 15, 2018.  
+●	Due to the pilot program only running at certain times we looked at data from June 15, 2019 to October 15, 2019 and June 15, 2018 to October 15, 2018.  
 ●	Leverage GCP to store data while also building necessary tables in MySql.  
 ●	Use SQL to combine similar data sets for Divvy Ridership and E-Scooter Ridership.  
 ●	As we were extracting data we realized that the datasets we were collect were rather large and made it difficult to extract the information with just one run, as a result, we did the extract in chunks. However given the time constraints we had with in this project, we concluded that we did not have enough storage, time, processing power etc. to extract rideshare data. As a result, while we did have it in our initial scope we did have to exclude from our insights and conclusion.  
